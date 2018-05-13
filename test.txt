@@ -1,4 +1,5 @@
 Hi, i'm master branch
 
-Hi, i'm secondBranch
+Hi, i'm secondBranch //make Conflict
+
 
